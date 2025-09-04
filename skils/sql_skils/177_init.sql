@@ -28,5 +28,5 @@ INSERT INTO Employee(id, salary) VALUES
 
 -- Example 2
 
-INSERT INTP Empoloee(id, salary) VALUES
+INSERT INTO Employee(id, salary) VALUES
 (1, 100);
