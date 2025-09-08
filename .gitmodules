@@ -1,0 +1,3 @@
+[submodule "skils/NN_skils"]
+	path = skils/NN_skils
+	url = git@github.com:IVitaliyI/dl-course-VK.git
